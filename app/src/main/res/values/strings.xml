@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listViews</string>
+    <string-array name="bsse">
+        <item>Hasnain</item>
+        <item>Raza</item>
+        <item>ALivi</item>
+        <item>Khan</item>
+    </string-array>
+</resources>
